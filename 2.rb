@@ -12,3 +12,5 @@ while num_of_hotdog_eaten < 7
 end
 
 puts "You ate a total of #{num_of_hotdog_eaten} hot dog(s)!"
+
+puts num_of_hotdog_eaten
