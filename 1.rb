@@ -3,6 +3,7 @@
 end
 
 loop do
+  10.times do
   puts "You'll see this exactly once."
   break
 end
