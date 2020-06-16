@@ -22,3 +22,4 @@ end
 cat = "Maru"
 age = 7
 age = age + 1
+age
