@@ -16,4 +16,5 @@ loop do
   puts "Iteration #{counter} of the loop"
   if counter >= 10
     break
+  end
 end
