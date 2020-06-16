@@ -19,11 +19,7 @@ loop do
   end
 end
 
-cat = "Maru"
-age = 7
-age = age + 1
-age += 1
-age
+
 
 counter = 0
 loop do
