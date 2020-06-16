@@ -18,3 +18,7 @@ loop do
     break
   end
 end
+
+cat = "Maru"
+age = 7
+age = age + 1
