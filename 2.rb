@@ -5,3 +5,8 @@ while counter < 5
 end
 
 num_of_hotdog_eaten = 0
+
+while num_of_hotdog_eaten < 7
+  num_of_hotdog_eaten += 1
+  puts "You have now eaten #{num_of_hotdog_eaten} hot dog(s)."
+end
