@@ -18,6 +18,7 @@ puts num_of_hotdog_eaten
 
 counter = 0
 until counter == 20
+  counter += 1
   puts "The current number is less than 20."
   counter += 1
 end
